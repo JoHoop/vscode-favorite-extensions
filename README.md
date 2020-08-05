@@ -1,7 +1,7 @@
 # vscode-favorite-extensions
 A collection of my favorite extensions in the VS Code marketplace.
 
-Please feel free to fork or add extensions.
+Please feel free to fork or add extensions. ✌️
 <br/>
 
 <br/>
