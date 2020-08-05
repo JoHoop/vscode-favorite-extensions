@@ -3,6 +3,7 @@ A collection of my favorite extensions in the VS Code marketplace.
 <br/>
 
 <br/>
+
 ### Auto Rename Tag
 Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
 
@@ -11,6 +12,7 @@ Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
 [GitHub Repo](https://github.com/formulahendry/vscode-auto-rename-tag)
 
 <br/>
+
 ### Babel JavaScript
 JavaScript syntax highlighting for ES201x, React JSX, Flow and GraphQL.
 
@@ -19,6 +21,7 @@ JavaScript syntax highlighting for ES201x, React JSX, Flow and GraphQL.
 [GitHub Repo](https://github.com/michaelgmcd/vscode-language-babel)
 
 <br/>
+
 ### Bracket Pair Colorizer 2
 This extension allows matching brackets to be identified with colours. The user can define which tokens to match, and which colours to use.
 
@@ -27,6 +30,7 @@ This extension allows matching brackets to be identified with colours. The user 
 [GitHub Repo](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2)
 
 <br/>
+
 ### Cobalt2 Theme for VS Code
 Official theme by Wes Bos.
 
@@ -35,6 +39,7 @@ Official theme by Wes Bos.
 [GitHub Repo](https://github.com/wesbos/cobalt2-vscode)
 
 <br/>
+
 ### Code Spell Checker
 A basic spell checker that works well with camelCase code.
 
@@ -43,6 +48,7 @@ A basic spell checker that works well with camelCase code.
 [GitHub Repo](https://github.com/streetsidesoftware/vscode-spell-checker)
 
 <br/>
+
 ### colorize
 Instantly visualize css colors in your css/sass/less/postcss/stylus/XML... files with a colored background.
 
@@ -51,6 +57,7 @@ Instantly visualize css colors in your css/sass/less/postcss/stylus/XML... files
 [GitHub Repo](https://github.com/kamikillerto/vscode-colorize)
 
 <br/>
+
 ### CSS Peek
 This extension extends HTML and ejs code editing with Go To Definition and Go To Symbol in Workspace support for css/scss/less (classes and IDs) found in strings within the source code.
 
@@ -59,6 +66,7 @@ This extension extends HTML and ejs code editing with Go To Definition and Go To
 [GitHub Repo](https://github.com/pranaygp/vscode-css-peek)
 
 <br/>
+
 ### Discord Presence
 Update your discord status with the newly added rich presence.
 
@@ -67,6 +75,7 @@ Update your discord status with the newly added rich presence.
 [GitHub Repo](https://github.com/iCrawl/discord-vscode)
 
 <br/>
+
 ### ESLint
 A configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.
 
@@ -75,6 +84,7 @@ A configurable linter tool for identifying and reporting on patterns in JavaScri
 [GitHub Repo](https://github.com/Microsoft/vscode-eslint)
 
 <br/>
+
 ### JavaScript (ES6) code snippets
 This extension contains code snippets for JavaScript in ES6 syntax for Vs Code editor (supports both JavaScript and TypeScript).
 
@@ -83,6 +93,7 @@ This extension contains code snippets for JavaScript in ES6 syntax for Vs Code e
 [GitHub Repo](https://github.com/xabikos/vscode-javascript)
 
 <br/>
+
 ### JSONResume
 This extension provides creation, validation, and code completion for JSON Resume files.
 
@@ -91,6 +102,7 @@ This extension provides creation, validation, and code completion for JSON Resum
 [GitHub Repo](https://github.com/jsonresume/vscode-jsonresume)
 
 <br/>
+
 ### LaTeX Workshop
 LaTeX Workshop is an extension for Visual Studio Code, aiming to provide core features for LaTeX typesetting with Visual Studio Code.
 
@@ -99,6 +111,7 @@ LaTeX Workshop is an extension for Visual Studio Code, aiming to provide core fe
 [GitHub Repo](https://github.com/James-Yu/LaTeX-Workshop)
 
 <br/>
+
 ### Live Share
 Live Share enables you to collaboratively edit and share your current project with others, and then as needed, share debugging sessions, terminal instances, localhost web apps, voice calls, and more.
 
@@ -107,6 +120,7 @@ Live Share enables you to collaboratively edit and share your current project wi
 [GitHub Repo](https://github.com/MicrosoftDocs/live-share)
 
 <br/>
+
 ### Material Icon Theme
 Material Design Icons for Visual Studio Code
 
@@ -115,6 +129,7 @@ Material Design Icons for Visual Studio Code
 [GitHub Repo](https://github.com/PKief/vscode-material-icon-theme)
 
 <br/>
+
 ### Material Theme
 Material Design theme for Visual Studio Code
 
@@ -123,6 +138,7 @@ Material Design theme for Visual Studio Code
 [GitHub Repo](https://github.com/material-theme/vsc-material-theme)
 
 <br/>
+
 ### Path Intellisense
 Visual Studio Code plugin that autocompletes filenames
 
@@ -131,6 +147,7 @@ Visual Studio Code plugin that autocompletes filenames
 [GitHub Repo](https://github.com/ChristianKohler/PathIntellisense)
 
 <br/>
+
 ### Prettier - Code formatter
 Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
 
@@ -139,6 +156,7 @@ Prettier is an opinionated code formatter. It enforces a consistent style by par
 [GitHub Repo](https://github.com/prettier/prettier-vscode)
 
 <br/>
+
 ### Settings Sync
 Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
 
@@ -147,6 +165,7 @@ Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspa
 [GitHub Repo](https://github.com/shanalikhan/code-settings-sync)
 
 <br/>
+
 ### Stream Deck for Visual Studio Code
 Enables Elgato Stream Deck integration with Visual Studio Code.
 
