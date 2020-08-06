@@ -1,7 +1,7 @@
-# vscode-favorite-extensions
+# vscode-favorite-extensions ✌️
 A collection of my favorite extensions in the VS Code marketplace.
 
-Please feel free to fork or add extensions. ✌️
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 <br/>
 
 <br/>
