@@ -3,7 +3,7 @@
     "publisher": "JoHoop",
     "displayName": "Jo's Favorite Extensions",
     "description": "A collection of my personal favorite extensions in the VS Code marketplace.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": "https://github.com/JoHoop/vscode-favorite-extensions",
     "engines": {
         "vscode": "^1.47.0"
