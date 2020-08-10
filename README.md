@@ -1,7 +1,8 @@
 # vscode-favorite-extensions ✌️
 A collection of my favorite extensions in the VS Code marketplace.
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[Open extension pack in VS Code](vscode:extension/JoHoop.jos-favorite-extensions).
+
 <br/>
 
 <br/>
