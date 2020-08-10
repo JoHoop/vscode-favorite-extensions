@@ -1,7 +1,8 @@
 # vscode-favorite-extensions ✌️
 A collection of my favorite extensions in the VS Code marketplace.
 
-[Open extension pack in VS Code](vscode:extension/JoHoop.jos-favorite-extensions).
+Open extension pack in VS Code
+vscode:extension/JoHoop.jos-favorite-extensions
 
 <br/>
 
